@@ -15,9 +15,9 @@
   
   #fermi:hover {
       background: url("../images/fermi.jpg");
-      float: right;
+      float: left;
       display: block;
-      width: 500px;
-      height: 400px;
+      width: 1000px;
+      height: 500px;
   }
   
