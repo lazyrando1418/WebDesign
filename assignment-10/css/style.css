@@ -1,10 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif
 }
-
 .main-container {
-    
-  
     border-style: dashed;
     border-width: 10px;
     border-color: rgb(31, 174, 246);
@@ -13,11 +10,9 @@ body{
     width: 75%;
     margin: auto;
 }
-
 div.align{
     text-align: center;
 }
-
 .secondary-container{
     
     margin: solid;
@@ -26,7 +21,6 @@ div.align{
     border-bottom: 1px red solid;
     border-spacing: inherit;
 }
-
 #mainheader{
     position: relative;
     left: 20px;
